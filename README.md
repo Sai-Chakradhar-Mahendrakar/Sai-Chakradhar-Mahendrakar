@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Chakradhar Rao Mahendrakar</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=000000&width=435&lines=Sai+Chakradhar+Rao+Mahendrakar;Computer+Science+Engineer)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=000000&width=435&lines=Sai+Chakradhar+Rao+Mahendrakar;Computer+Science+Engineer" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-chakradhar-mahendrakar&label=Profile%20views&color=20a2f3&style=flat" alt="sai-chakradhar-mahendrakar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-chakradhar-mahendrakar" alt="sai-chakradhar-mahendrakar" /></a> </p>
