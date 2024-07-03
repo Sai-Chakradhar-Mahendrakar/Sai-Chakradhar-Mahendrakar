@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Chakradhar Rao Mahendrakar</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=000000&width=435&lines=Sai+Chakradhar+Rao+Mahendrakar;Computer+Science+Engineer" alt="Typing SVG" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-chakradhar-mahendrakar&label=Profile%20views&color=20a2f3&style=flat" alt="sai-chakradhar-mahendrakar" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=500&size=35&pause=1000&color=526BFF&random=false&width=435&lines=Sai+Chakradhar+Mahendrakar;Full+Stack+Web+Developer;Software+Engineer;AIML+Engineer;DataBase+Engineer" alt="SaiChakradhar" /></a>
 
 
 - I am **a creative and innovative individual with strong problem-solving skills and proficiency in Python, C++, and C. I am passionate about implementing and launching new projects and learning and exploring new technologies.**
