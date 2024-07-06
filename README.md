@@ -5,7 +5,7 @@
     <a href=""><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=400&size=30&pause=1000&color=FF0C48&random=false&width=435&lines=Full+Stack+Web+Developer;Software+Engineer;AIML+Engineer;DataBase+Engineer" alt="Skills" /></a>
 </p>
 
-<img align="right" height="180" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+<img align="right" height="160" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
 I am Sai Chakradhar Rao Mahendrakar, a senior B.Tech student in Computer Science Engineering with AIML at SRM University AP. Passionate about AI, ML, and web development, I've worked on various projects involving cutting-edge technologies. I enjoy solving problems on Leetcode and CodeChef and have been recognized for my research in Federated Learning.
 
