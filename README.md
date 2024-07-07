@@ -16,7 +16,38 @@ I am Sai Chakradhar Rao Mahendrakar, a senior B.Tech student in Computer Science
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<img src="https://raw.githubusercontent.com/Sai-Chakradhar-Mahendrakar/Sai-Chakradhar-Mahendrakar/output/snake.svg" alt="Snake animation" />
+<div style="text-align: center;">
+  <table style="margin: 0 auto; text-align: right;">
+    <tr>
+      <td style="padding: 0 5px;">
+        Less
+      </td>
+      <td style="padding: 0 5px;">
+        <img src="https://via.placeholder.com/20x20/ff9900/000000?text=+" alt="Light Blue">
+      </td>
+      <td style="padding: 0 5px;">
+        <img src="https://via.placeholder.com/20x20/0066ff/000000?text=+" alt="Red">
+      </td>
+      <td style="padding: 0 5px;">
+        <img src="https://via.placeholder.com/20x20/33cc33/000000?text=+" alt="Yellow">
+      </td>
+      <td style="padding: 0 5px;">
+        <img src="https://via.placeholder.com/20x20/ff3300/000000?text=+" alt="Yellow">
+      </td>
+      <td style="padding: 0 5px;">
+        More
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/woobe-studio/woobe-studio/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/woobe-studio/woobe-studio/blob/output/github-snake.svg">
+  <img alt="snake gif" src="https://github.com/woobe-studio/woobe-studio/blob/output/github-snake.svg">
+</picture>
 
 <h2 align="center"> 💻 Tech Stack </h2>
 
