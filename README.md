@@ -1,3 +1,6 @@
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
 <p>
     <a href="https://github.com/Sai-Chakradhar-Mahendrakar"><img src="https://readme-typing-svg.demolab.com?            font=Alegreya+Sans&weight=500&size=35&duration=1&pause=1&color=FF0C48&repeat=false&random=false&width=435&lines=Sai+Chakradhar+Mahendrakar" alt="Typing SVG" /></a>
 </p>
@@ -13,10 +16,9 @@ I am Sai Chakradhar Rao Mahendrakar, a senior B.Tech student in Computer Science
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+<img src="https://raw.githubusercontent.com/Sai-Chakradhar-Mahendrakar/Sai-Chakradhar-Mahendrakar/output/snake.svg" alt="Snake animation" />
 
-
-
-# 💻 Tech Stack
+<h2 align="center"> 💻 Tech Stack </h2>
 
 ## Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -65,14 +67,30 @@ I am Sai Chakradhar Rao Mahendrakar, a senior B.Tech student in Computer Science
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sai-Chakradhar-Mahendrakar&theme=swift&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sai-Chakradhar-Mahendrakar&theme=swift&hide_border=false)
+<h2 align="center">👀 Git Status 👀</h2>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sai-Chakradhar-Mahendrakar&theme=highcontrast&border=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Sai-Chakradhar-Mahendrakar&theme=default">
+    <img width="800" height="220" src="https://streak-stats.demolab.com?user=Sai-Chakradhar-Mahendrakar&theme=default" alt="GitHub Streak Stats">
+  </picture>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sai-Chakradhar-Mahendrakar&limit=5&theme=flag-india&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Chakradhar-Mahendrakar&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sai-Chakradhar-Mahendrakar&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sai-Chakradhar-Mahendrakar&theme=transparent)|
+| :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sai-Chakradhar-Mahendrakar&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sai-Chakradhar-Mahendrakar&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sai-Chakradhar-Mahendrakar&theme=transparent) |
+| :-: | :-: | :-: |
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Chakradhar-Mahendrakar&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark&border_color=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Chakradhar-Mahendrakar&size_weight=0.15&count_weight=0.5&layout=compact&theme=default">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Chakradhar-Mahendrakar&size_weight=0.15&count_weight=0.5&layout=compact&theme=default" alt="Top Languages">
+  </picture>
+</p>
+
 
 ## Connect with me:
 <p align="left">
@@ -86,9 +104,10 @@ I am Sai Chakradhar Rao Mahendrakar, a senior B.Tech student in Computer Science
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sai-Chakradhar-Mahendrakar/Sai-Chakradhar-Mahendrakar/output/snake.svg" alt="Snake animation" />
+
 
 [![](https://visitcount.itsvg.in/api?id=Sai-Chakradhar-Mahendrakar&icon=2&color=1)](https://visitcount.itsvg.in)
 
-
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
