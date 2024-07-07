@@ -19,11 +19,13 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-light
-
+          outputs: |
+            dist/github-snake.svg?color_snake=#b3e5fc&color_dots=#fff5e6,#ff9900,#0066ff,#33cc33,#ff3300
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#b3e5fc&color_dots=#262626,#ff9900,#0066ff,#33cc33,#ff3300
+            dist/ocean.gif?color_snake=#b3e5fc&color_dots=#fff5e6,#ff9900,#0066ff,#33cc33,#ff3300
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
