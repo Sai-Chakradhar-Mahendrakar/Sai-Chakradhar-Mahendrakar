@@ -47,7 +47,7 @@ I am Sai Chakradhar Rao Mahendrakar, a senior B.Tech student in Computer Science
   <img alt="snake gif" src="https://raw.githubusercontent.com/Sai-Chakradhar-Mahendrakar/Sai-Chakradhar-Mahendrakar/output/github-snake.svg">
 </picture>
 
-<h2 align="center"> 💻 Tech Stack </h2>
+<h2 align="center"> 💻 Tech Stack 💻 </h2>
 
 ## Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
