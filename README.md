@@ -8,8 +8,6 @@
     <a href=""><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=400&size=30&pause=1000&color=FF0C48&random=false&width=435&lines=Full+Stack+Web+Developer;Software+Engineer;AIML+Engineer;DataBase+Engineer" alt="Skills" /></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Sai-Chakradhar-Mahendrakar&icon=2&color=1)](https://visitcount.itsvg.in)
-
 <img align="right" height="160" src="pic.gif"  />
 
 I am Sai Chakradhar Rao Mahendrakar, a senior B.Tech student in Computer Science Engineering with AIML at SRM University AP. Passionate about AI, ML, and web development, I've worked on various projects involving cutting-edge technologies. I enjoy solving problems on Leetcode and CodeChef and have been recognized for my research in Federated Learning.
@@ -136,7 +134,7 @@ I am Sai Chakradhar Rao Mahendrakar, a senior B.Tech student in Computer Science
 ###
 
 
-<p align="center"><a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=2z3ueadl2h6m17scjrymdx8ytw4su4aq" border="0" title="website counter" alt="website counter"></a> </p>
+[![](https://visitcount.itsvg.in/api?id=Sai-Chakradhar-Mahendrakar&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
