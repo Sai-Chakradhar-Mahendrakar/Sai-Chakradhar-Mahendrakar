@@ -2,7 +2,7 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 <p>
-    <a href="https://github.com/Sai-Chakradhar-Mahendrakar"><img src="https://readme-typing-svg.demolab.com?            font=Alegreya+Sans&weight=500&size=35&duration=1&pause=1&color=FF0C48&repeat=false&random=false&width=435&lines=Sai+Chakradhar+Mahendrakar" alt="Typing SVG" /></a>
+    <a href="https://github.com/Sai-Chakradhar-Mahendrakar"><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=500&size=35&duration=1&pause=1&color=FF0C48&repeat=false&random=false&width=435&lines=Sai+Chakradhar+Mahendrakar" alt="Typing SVG" /></a>
 </p>
 <p>
     <a href=""><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=400&size=30&pause=1000&color=FF0C48&random=false&width=435&lines=Full+Stack+Web+Developer;Software+Engineer;AIML+Engineer;DataBase+Engineer" alt="Skills" /></a>
