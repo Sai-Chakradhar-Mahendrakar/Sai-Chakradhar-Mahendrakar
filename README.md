@@ -5,7 +5,7 @@
     <a href="https://github.com/Sai-Chakradhar-Mahendrakar"><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=500&size=35&duration=1&pause=1&color=FF0C48&repeat=false&random=false&width=435&lines=Sai+Chakradhar+Mahendrakar" alt="Typing SVG" /></a>
 </p>
 <p>
-    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=400&size=30&pause=1000&color=FF0C48&random=false&width=435&lines=Full+Stack+Web+Developer;Software+Engineer;AIML+Engineer;DataBase+Engineer" alt="Skills" /></a>
+    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=400&size=30&pause=1000&color=FF0C48&random=false&width=435&lines=Backend+Developer;Software+Engineer;AIML+Engineer;DataBase+Engineer" alt="Skills" /></a>
 </p>
 
 <img align="right" height="160" width="200" src="pic.gif"  />
