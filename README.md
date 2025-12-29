@@ -80,11 +80,11 @@ I am Sai Chakradhar Rao Mahendrakar, currently working as an SDE at Zeta, focusi
   </picture>
 </p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sai-Chakradhar-Mahendrakar&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sai-Chakradhar-Mahendrakar&theme=transparent)|
-| :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sai-Chakradhar-Mahendrakar&theme=transparent)|
+| :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sai-Chakradhar-Mahendrakar&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sai-Chakradhar-Mahendrakar&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sai-Chakradhar-Mahendrakar&theme=transparent) |
-| :-: | :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sai-Chakradhar-Mahendrakar&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sai-Chakradhar-Mahendrakar&theme=transparent) |
+| :-: | :-: |
 
 <p align="center">
   <picture>
