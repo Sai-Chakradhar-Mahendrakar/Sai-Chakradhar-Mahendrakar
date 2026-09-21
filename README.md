@@ -18,9 +18,9 @@ CS Engineering graduate (AI/ML) from **SRM University AP**, holder of a **patent
 public class SaiChakradhar implements BackendEngineer {
 
     Role     role      = new Role("SDE", "Zeta");
-    String[] focus     = { "Spring Boot", "REST APIs", "Microservices", "Databases" };
-    String[] deploy    = { "Docker", "Kubernetes", "Helm", "GitHub Actions" };
-    String[] alsoDoes  = { "Flutter", "Kotlin", "Applied ML" };
+    String[] focus     = { "Spring Boot", "REST APIs", "Microservices", "Databases", "Kafka", "Redis" };
+    String[] deploy    = { "Docker", "Kubernetes", "Helm", "GitHub Actions", "AWS", "GCP" };
+    String[] alsoDoes  = { "AI Agents", "Agent Harness", "Applied ML", "Flutter" };
     String   education = "B.Tech CSE (AIML), SRM University AP";
 
     @Override
