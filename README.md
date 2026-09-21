@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Sai-Chakradhar-Mahendrakar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6DB33F&center=true&vCenter=true&width=600&lines=Building+scalable+backend+services;Java+%7C+Spring+Boot+%7C+REST+APIs;Docker+%7C+Kubernetes+%7C+CI%2FCD;SQL+%26+NoSQL+data+modelling" alt="Typing SVG" /></a>
+    <a href="https://github.com/Sai-Chakradhar-Mahendrakar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6DB33F&center=true&vCenter=true&width=600&lines=Building+scalable+backend+services;Java+%7C+Spring+Boot+%7C+REST+APIs;Kafka+%7C+Redis+%7C+Distributed+Systems;Docker+%7C+Kubernetes+%7C+CI%2FCD;SQL+%26+NoSQL+data+modelling" alt="Typing SVG" /></a>
 </p>
 
 
@@ -19,7 +19,7 @@ CS Engineering graduate (AI/ML) from **SRM University AP**, holder of a **patent
 public class SaiChakradhar implements BackendEngineer {
 
     Role     role      = new Role("SDE", "Zeta");
-    String[] focus     = { "Spring Boot", "REST APIs", "Microservices", "Databases", "Kafka", "Redis" };
+    String[] focus     = { "Spring Boot", "REST APIs", "Microservices", "Databases", "Kafka", "Redis", "Distributed Systems" };
     String[] deploy    = { "Docker", "Kubernetes", "Helm", "GitHub Actions", "AWS", "GCP" };
     String[] alsoDoes  = { "AI Agents", "Agent Harness", "Applied ML", "Flutter" };
     String   education = "B.Tech CSE (AIML), SRM University AP";
@@ -54,6 +54,16 @@ public class SaiChakradhar implements BackendEngineer {
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**Messaging & Caching**
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 **DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -61,6 +71,32 @@ public class SaiChakradhar implements BackendEngineer {
 ![Helm](https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 🌐 Distributed Systems
+
+Event-driven architecture · Microservices · Async messaging with Kafka · Distributed caching with Redis · Horizontal scaling on Kubernetes · Idempotency and retries · Eventual consistency
+
+<details open>
+<summary><b>Reference architecture</b> — how I typically structure an event-driven service</summary>
+
+```mermaid
+flowchart LR
+    Client([Client]) --> GW[API Gateway]
+    GW --> API[Spring Boot Service]
+    API <-->|cache-aside| R[(Redis)]
+    API --> DB[(PostgreSQL / MySQL)]
+    API -->|publish event| K{{Kafka}}
+    K --> W1[Consumer: Notifications]
+    K --> W2[Consumer: Ledger / Audit]
+    W2 --> M[(MongoDB)]
+    subgraph Kubernetes
+        API
+        W1
+        W2
+    end
+```
+
+</details>
 
 ## 🧩 Also Work With
 
