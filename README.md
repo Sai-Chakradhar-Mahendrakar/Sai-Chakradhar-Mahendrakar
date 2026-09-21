@@ -6,9 +6,10 @@
     <a href="https://github.com/Sai-Chakradhar-Mahendrakar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6DB33F&center=true&vCenter=true&width=600&lines=Building+scalable+backend+services;Java+%7C+Spring+Boot+%7C+REST+APIs;Docker+%7C+Kubernetes+%7C+CI%2FCD;SQL+%26+NoSQL+data+modelling" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" height="160" width="200" src="pic.gif" />
 
 ## 👨‍💻 About
+
+<img align="right" height="80" width="100" src="pic.gif" />
 
 Backend Software Engineer (SDE) at **Zeta**, building services with **Java and Spring Boot**, backed by relational and document databases and shipped through containerised CI/CD pipelines. I also build mobile apps with Flutter and Kotlin when a product needs them.
 
