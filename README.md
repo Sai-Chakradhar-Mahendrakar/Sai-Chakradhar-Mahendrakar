@@ -31,6 +31,9 @@ public class SaiChakradhar implements BackendEngineer {
 }
 ```
 
+**Explore my learning blog 🧠**  
+[![Learning Blog](https://img.shields.io/badge/🧠_Learning_Blog-ThinkLayer-6C5CE7?style=for-the-badge)](https://thinklayer.me/core-learning/)
+
 <br clear="right"/>
 
 ## ⚙️ Backend Stack
